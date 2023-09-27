@@ -9,7 +9,6 @@
 </a><br />
 <p align="left" > 
   <b>Faaallaaa QA!</b>
-  <b>Faaallaaa Devs!</b>
 </p>
 <p align="left" >
 <b> Desafios QA</b>.
