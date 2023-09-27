@@ -8,10 +8,10 @@
 
 </a><br />
 <p align="left" > 
-  <b>Faaallaaa QA!</b>
+<b>Faaallaaa QA!</b>
 </p>
 <p align="left" >
-<b> Desafios QA</b>.
+
 </p>
 <p align="left" >
 Aprendendo Juntos.
