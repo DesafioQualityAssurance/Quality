@@ -12,7 +12,7 @@
   <b>Faaallaaa Devs!</b>
 </p>
 <p align="left" >
-Me chamo <b> Desafios QA</b>.
+<b> Desafios QA</b>.
 </p>
 <p align="left" >
 Aprendendo Juntos.
