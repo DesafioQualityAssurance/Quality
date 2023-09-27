@@ -25,32 +25,6 @@ Aproveite essa oportunidade e se desafie!
 </p><br/>
 <hr/>
   
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-<br/>
-</div>
-   <br />
-<br/>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-      <thead>
-        <tr>
-          <td>
-            <img
-              src="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true&locale=en&theme=tokyonight"
-              alt="GitHub Stats"
-            />
-          </td>
-          <td>
-            <img
-              src="https://streak-stats.demolab.com/?user=RicardoOliver&theme=tokyonight"
-              alt="GitHub Stats"
-            />
-          </td>
-        </tr>
-      </thead>
-    </table>
-<br />
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RicardoOliver}/count.svg" /></p> 
